@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    background-color: black;
+}
+
+.line{
+    height: 5px;
+    background-color: white;
+    width: 100px;
+    margin: 5px auto;
+}
+
+h1{
+  font-size: 30px;
+  font-family: 'Courier New', Courier, monospace;
+  color: white;
+}
+
+#sec{
+    background-color: blue;
+}
+
+#sect{
+    background-color: pink;
+}
+
+#secti{
+    background-color: orange;
+}
+
+iframe{
+    border: 5px solid white;
+}
